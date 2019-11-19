@@ -1,2 +1,0 @@
-# functionalComponent
-Created with CodeSandbox
